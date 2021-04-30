@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @tsudon
 - ✔️ I'm rehabbed now.
+- 😢 I don't have time for coding now.
+- 👀 I'm interested grammar, image or audio processing, networking, binary processing etc.
